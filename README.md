@@ -1,143 +1,66 @@
-# Hi, I'm Sudiksha 👋
+<h1 align="center">Hi 👋, I'm Sudiksha</h1>
+<h3 align="center">A Passionate Full-Stack Developer & Electronics & Communication Engineer</h3>
 
-### Software Developer | Full-Stack Developer | Problem Solver
+- 🌱 I’m currently building scalable **Full-Stack Applications** and honing my **DSA skills**
+- 👯 I’m looking to collaborate on **MERN Stack & Real-Time Web Applications**
+- 💬 Ask me about **React, Node.js, Socket.IO, and Web Development**
+- 📫 How to reach me: **sudiksha27chugh@gmail.com**
+- ⚡ Fun fact: **I have solved over 500+ DSA problems across competitive programming platforms!**
 
-I'm a B.Tech graduate in Electronics and Communication Engineering with a strong interest in **software development, full-stack engineering, backend systems, and problem solving**.
-
-I enjoy building real-world applications, working with modern web technologies, and solving Data Structures & Algorithms problems.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech in Electronics and Communication Engineering
-* 💻 Full-Stack Developer with experience in MERN
-* ⚙️ Interested in backend development and real-time systems
-* 🧩 Solved **500+ DSA problems**
-* 🏆 Peak **LeetCode rating: 1590**
-* 🌐 Selected participant in **HackOn with Amazon**
-* ☁️ Member of Microsoft's **Azure Hash Include Her** community
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">Languages, Frameworks, and Tools:</h2>
+<p align="center">
+  <!-- Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  
+  <!-- Frontend -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
-### Languages
+  <!-- Backend -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/> </a>
 
-* C
-* C++
-* JavaScript
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-### Frontend
-
-* React.js
-* Next.js
-* Tailwind CSS
-* HTML5
-* CSS3
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* Socket.IO
-
-### Databases
-
-* MySQL
-* MongoDB
-
-### Core Computer Science
-
-* Data Structures & Algorithms
-* Operating Systems
-* Database Management Systems
-* Computer Networks
-* Object-Oriented Programming
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Visual Studio Code
-* Figma
-* Vercel
-* Render
+  <!-- Tools & Platforms -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## 💻 Projects
+<h2 align="center">🏆 Highlights & Achievements</h2>
 
-### 🏠 Home Services Marketplace
-
-**MERN | Socket.IO | JWT | Razorpay | Cloudinary**
-
-A full-stack home services marketplace with separate applications for **customers, professionals, and administrators**, backed by a unified REST API.
-
-**Key Features:**
-
-* Role-based authentication for 3 user types
-* Real-time job tracking and in-app chat using Socket.IO
-* 5-stage booking lifecycle:
-  `Requested → Accepted → In Progress → Completed / Cancelled`
-* Server-side validation for booking status transitions
-* Secure payment processing with Razorpay
-* Cloudinary-based document verification
-* Admin analytics dashboard
-* Monthly booking, revenue, and category-wise performance tracking
-
-🔗 **[GitHub](#)** | **[Live Demo](#)**
+- 💡 Solved **500+ DSA problems** across multiple platforms
+- ⚡ **LeetCode Peak Rating:** 1590 | **Global Rank:** 2268 (Weekly Contest 469)
+- 🚀 Member of **Microsoft Azure (Hash Include Her)** Community
+- 🎯 Selected participant in **HackOn with Amazon**
 
 ---
 
-### 📋 TaskFlow
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=gotham&show_icons=true&hide_border=false&count_private=true" title="GitHub Stats" alt="GitHub Stats" width="490"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="490" />
+</div>
 
-**MERN | Socket.IO | JWT | Google OAuth | Resend | Cloudmailin**
-
-A real-time Kanban-style task management application designed for collaborative task management.
-
-**Key Features:**
-
-* Drag-and-drop task management using `@dnd-kit`
-* Real-time board updates using Socket.IO
-* JWT-based email/password authentication
-* Password hashing using bcryptjs
-* Google OAuth 2.0 using Passport.js
-* OTP email verification with 10-minute expiry
-* Email-to-task automation using Cloudmailin
-* MongoDB Atlas for persistent task storage
-* Real-time task broadcasting to clients
-
-🔗 **[GitHub](#)** | **[Live Demo](#)**
-
----
-
-## 🏆 Achievements
-
-* 🧠 Solved **500+ DSA problems** across multiple competitive programming platforms
-* ⭐ Achieved a peak **LeetCode rating of 1590**
-* 🏅 Achieved **global rank 2268** in LeetCode Weekly Contest 469
-* 🚀 Selected as a participant in **HackOn with Amazon**
-* ☁️ Member of Microsoft's **Azure Hash Include Her** community
-
----
-
-## 📊 Coding Profiles
-
-* 💻 **LeetCode:** [Profile](#)
-* 🧠 **GeeksForGeeks:** [Profile](#)
-* 💼 **LinkedIn:** [Profile](#)
-* 🐙 **GitHub:** [Profile](#)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing **software development, backend engineering, full-stack applications, DSA, and interesting technical projects**.
-
-📧 **Email:** [sudiksha27chugh@gmail.com](mailto:sudiksha27chugh@gmail.com)
-
----
-
+<div align="center">
+ 
 ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
