@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudiksha</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Electronics & Communication Engineer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 - 🌱 I’m currently building scalable **Full-Stack Applications** and honing my **DSA skills**
 - 👯 I’m looking to collaborate on **MERN Stack & Real-Time Web Applications**
